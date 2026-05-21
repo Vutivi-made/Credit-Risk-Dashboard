@@ -31,4 +31,3 @@ It predicts loan default risk using the German Credit Dataset and provides real-
 ## Business Use Case
 
 This project simulates a real-world banking credit scoring system used to evaluate loan applicants, support underwriting decisions, and manage portfolio risk.
-streamlit run app.py
